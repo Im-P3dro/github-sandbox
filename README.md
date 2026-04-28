@@ -1,4 +1,4 @@
-# github-sandbo
+# github-sandbox
 
 # 📥 Download Files via Commit Message
 
