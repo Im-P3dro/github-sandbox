@@ -1,4 +1,4 @@
-# github-wiresa
+# git
 
 # 📥 Download Files via Commit Message
 
