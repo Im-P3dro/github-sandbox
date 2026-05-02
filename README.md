@@ -1,4 +1,4 @@
-# giti
+# git
 
 # 📥 Download Files via Commit Message
 
